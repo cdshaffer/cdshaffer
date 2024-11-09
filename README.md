@@ -5,7 +5,7 @@
 
 -->
 - 🔭 I’m a Senior Instructor at Washington University in St. Louis (WashU). I teach and do research in bioinformatics and genomics.
-- 🌱 Projects here support the SEA-PHAGES program analysis pipeline. [See the SEA-PHAGES repository]((https://github.com/SEA-PHAGES) and [seaphages.org](https://seaphages.org/) for more infomation.
+- 🌱 Projects here support the SEA-PHAGES program analysis pipeline. [See the SEA-PHAGES repository](https://github.com/SEA-PHAGES) and [seaphages.org](https://seaphages.org/) for more infomation.
 - 📫 How to reach me: shaffer@wustl.edu 
 - 😄 Pronouns: He/Him/His
 

@@ -4,8 +4,8 @@
 **cdshaffer/cdshaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m a Senior Lecturer at Washington University in St. Louis (WashU). I teach bioinformatics and genomics and do research in epigenetics.
-- 🌱 Projects here support the SEA-PHAGES program analysis pipeline. [See the SEA-PHAGES repository](https://github.com/SEA-PHAGES) and [seaphages.org](https://seaphages.org/) for more infomation.
-- 📫 How to reach me: shaffer@wustl.edu 
+- 🧬 I’m a Senior Lecturer at Washington University in St. Louis (WashU). I teach bioinformatics and genomics and do research in epigenetics.
+- 🔬 Projects here support the SEA-PHAGES program analysis pipeline. [See the SEA-PHAGES repository](https://github.com/SEA-PHAGES) and [seaphages.org](https://seaphages.org/) for more infomation.
+- ✉️ How to reach me: shaffer@wustl.edu 
 - 😄 Pronouns: He/Him/His
 
